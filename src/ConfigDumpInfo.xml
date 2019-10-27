@@ -1,0 +1,107 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<ConfigDumpInfo xmlns="http://v8.1c.ru/8.3/xcf/dumpinfo" xmlns:xen="http://v8.1c.ru/8.3/xcf/enums" xmlns:xs="http://www.w3.org/2001/XMLSchema" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" format="Hierarchical" version="2.8">
+	<ConfigVersions>
+		<Metadata name="Catalog.Зоны" id="d3e960f6-55f2-4949-9084-0fb9e3de3bac" configVersion="76aa012b92b9d94e950336644af7a9e200000000"/>
+		<Metadata name="Catalog.Клиенты" id="bed917ba-a65f-47bf-91d4-c6ad814f00f3" configVersion="ef603f26b5a323429c9d34b7167c938700000000">
+			<Metadata name="Catalog.Клиенты.Attribute.ОсновнойАдресДоставки" id="0bf6af4f-f25b-412c-ba3f-0b98635d26e8"/>
+			<Metadata name="Catalog.Клиенты.Attribute.ОсновнойАдресОтправки" id="16f9f99a-9984-4b2f-9728-2f83b86fc460"/>
+			<Metadata name="Catalog.Клиенты.Attribute.client_id" id="7af5c88d-9bcc-44ac-bd75-1ef4981b6779"/>
+			<Metadata name="Catalog.Клиенты.Attribute.TelegramID" id="bc52ed93-fe9f-4ee1-ae0c-b30b5b3dc68f"/>
+		</Metadata>
+		<Metadata name="Catalog.Клиенты.ObjectModule" id="bed917ba-a65f-47bf-91d4-c6ad814f00f3.0" configVersion="30338a056a82eb46b58f8a1425e0b18b00000000"/>
+		<Metadata name="Catalog.КомандыБота" id="b7eee958-acc5-4f14-9d71-f9b7e5336ec1" configVersion="aeb13c43b3b8bf49b8c4e03a21ddd1fb00000000">
+			<Metadata name="Catalog.КомандыБота.TabularSection.СписокВопросов.Attribute.EN" id="1f383be4-74b2-48b9-8df1-3676a576274b"/>
+			<Metadata name="Catalog.КомандыБота.TabularSection.СписокВопросов.Attribute.ТекстВопроса" id="45c1c7f0-6dd5-40e4-8164-5c1c9d61a059"/>
+			<Metadata name="Catalog.КомандыБота.Attribute.TelComand" id="69a53884-c5a6-4818-a011-cc64be4d0bd8"/>
+			<Metadata name="Catalog.КомандыБота.TabularSection.СписокВопросов" id="7d756224-ad06-46e6-88be-fe50aa3b9882"/>
+			<Metadata name="Catalog.КомандыБота.TabularSection.СписокВопросов.Attribute.Реквизит" id="c8189bf6-c6ef-44c3-a559-293d3dae72c9"/>
+			<Metadata name="Catalog.КомандыБота.Attribute.Документ" id="df6dac71-7947-4451-a97b-002636c7611c"/>
+		</Metadata>
+		<Metadata name="Catalog.КомандыБота.Form.ФормаЭлемента" id="6aed6ce7-a61c-4cef-8a11-6750df02a9cf" configVersion="d9767fcb504fc644a6994377ddfa871200000000"/>
+		<Metadata name="Catalog.КомандыБота.Form.ФормаЭлемента.Form" id="6aed6ce7-a61c-4cef-8a11-6750df02a9cf.0" configVersion="0d2649e259b6274ea2393398517973a900000000"/>
+		<Metadata name="Catalog.КомандыБота.ManagerModule" id="b7eee958-acc5-4f14-9d71-f9b7e5336ec1.3" configVersion="9424084b95ac4143af9894d30b62f7c000000000"/>
+		<Metadata name="Catalog.Курьеры" id="79650454-7f30-4670-8e17-26ebcf9aa471" configVersion="7ca2503ce3e3dc45809c9a0f1f7cd72a00000000">
+			<Metadata name="Catalog.Курьеры.Attribute.ШтатныйСотрудник" id="3656de0f-b2f9-42d2-b9b2-75bef1978608"/>
+			<Metadata name="Catalog.Курьеры.Attribute.TelegramID" id="5d2d1458-ae72-43bc-9d9b-e43c54812f79"/>
+			<Metadata name="Catalog.Курьеры.Attribute.Зона" id="6bfdd18c-4318-4c8c-8620-e440de1b585d"/>
+			<Metadata name="Catalog.Курьеры.Attribute.client_id" id="798a71cd-7a45-46e7-8922-a7013aaedccf"/>
+			<Metadata name="Catalog.Курьеры.Attribute.НомерДоговора" id="b72ea72e-52b5-4ba9-a68c-092e14cc6523"/>
+		</Metadata>
+		<Metadata name="CommonModule.Тележка" id="0756a903-d956-4a52-ab57-52ed5fd6f089" configVersion="5ef761d11d5efc499d3913613aa14a7d00000000"/>
+		<Metadata name="CommonModule.Тележка.Module" id="0756a903-d956-4a52-ab57-52ed5fd6f089.0" configVersion="4b3ce7affece814dbd4f9fd35c909bc300000000"/>
+		<Metadata name="Configuration.Конфигурация" id="3ea38122-7b90-4977-bb58-bfb4376e42b7" configVersion="a76aafbafa387c46900e2ad4e517dfe200000000"/>
+		<Metadata name="Constant.BotName" id="d1392ae5-b899-4ce5-86ee-314f13fd03ef" configVersion="3070bb02f7be65428feef8aaeb2d47c900000000"/>
+		<Metadata name="Constant.BotToken" id="89b220ef-dd62-4736-9148-83dc789bf7ac" configVersion="97de3a0862fe2a4889bef636c4151be500000000"/>
+		<Metadata name="Constant.TelegramServer" id="cb9f87c1-c83c-45ca-9595-710f28ba2c11" configVersion="34eff7c83e1f634da180eef98a16772400000000"/>
+		<Metadata name="Constant.Автомат" id="11c98f90-db92-462b-b75d-e1e34d5c476e" configVersion="791321b001dfdc4a8766d74b54a527e500000000"/>
+		<Metadata name="DataProcessor.Telegram" id="6fa93901-c114-46af-96ad-68e940d82505" configVersion="2796a6b1fa15b6479627ee0a0216de5000000000"/>
+		<Metadata name="DataProcessor.Telegram.Form.Форма" id="5d427ef3-4a66-4e61-abf2-417edf8d6cf3" configVersion="f74b0d9a844983468525afed6cb9206f00000000"/>
+		<Metadata name="DataProcessor.Telegram.Form.Форма.Form" id="5d427ef3-4a66-4e61-abf2-417edf8d6cf3.0" configVersion="5b2e1226afb5bd4aafb4529acd52f30f00000000"/>
+		<Metadata name="DataProcessor.Telegram.ManagerModule" id="6fa93901-c114-46af-96ad-68e940d82505.2" configVersion="1ebb07c411c0674e9aca72397208f1f200000000"/>
+		<Metadata name="DataProcessor.РасчетСтоимсотиЗаказа" id="e70b9ceb-7627-4e8a-bd66-264d687a4ad7" configVersion="09430c1bf0aa6947a240a25d4665d38100000000"/>
+		<Metadata name="DataProcessor.РасчетСтоимсотиЗаказа.Form.Форма" id="d2df7e40-0d9e-4528-b140-a991ca8384ac" configVersion="2c9c596cfdd3f840ba43cee26fbdd84600000000"/>
+		<Metadata name="DataProcessor.РасчетСтоимсотиЗаказа.Form.Форма.Form" id="d2df7e40-0d9e-4528-b140-a991ca8384ac.0" configVersion="e33a6b4206785b4a90bf0bce92778c2200000000"/>
+		<Metadata name="DataProcessor.РасчетСтоимсотиЗаказа.ManagerModule" id="e70b9ceb-7627-4e8a-bd66-264d687a4ad7.2" configVersion="5d1f654c7deb4f4da6bfaecb8dfd92e200000000"/>
+		<Metadata name="Document.Жалоба" id="271ca1e0-5c90-48f7-bfde-9dd761269ae1" configVersion="277a4bc86c8f794daa76dabd4dbb30d800000000">
+			<Metadata name="Document.Жалоба.Attribute.РезультатРассмотрения" id="54595911-b902-4b29-bdd5-a81bde75c8e1"/>
+			<Metadata name="Document.Жалоба.Attribute.Заказ" id="59cd1dce-d46d-43e5-9191-d7960361c54b"/>
+		</Metadata>
+		<Metadata name="Document.Заказ" id="5cb438e3-5650-4bd7-9cf3-cb7ed0a687bc" configVersion="133413404c2061489554c306a5f4f7f800000000">
+			<Metadata name="Document.Заказ.Attribute.ДополнительнаяИнформация" id="2f48d6c4-9a51-48fc-95eb-50e97126deec"/>
+			<Metadata name="Document.Заказ.Attribute.Статус" id="346a5d42-9603-4f0d-a77f-ab9fe0b12f42"/>
+			<Metadata name="Document.Заказ.Attribute.Курьер" id="4680d200-5819-4c54-bf56-a2cc72616759"/>
+			<Metadata name="Document.Заказ.Attribute.Клиент" id="46b3ff42-704f-4150-8e26-95319567082b"/>
+			<Metadata name="Document.Заказ.Attribute.ДатаЗавершения" id="5842c3c0-f429-4555-8022-1389950098ec"/>
+			<Metadata name="Document.Заказ.Attribute.АдресОтправки" id="5a23ed2a-e543-44b1-8e5c-5ada730d3fb9"/>
+			<Metadata name="Document.Заказ.Attribute.ДатаПриемаВРаботу" id="8c64b0cc-2e67-44b1-a2ce-fe32c3a05a87"/>
+			<Metadata name="Document.Заказ.Attribute.Сумма" id="8edb3bf9-db3b-42d1-ae2f-42867cd54269"/>
+			<Metadata name="Document.Заказ.Attribute.ДатаНазначения" id="ab1d60af-8f56-4ca5-a85b-768c15d77271"/>
+			<Metadata name="Document.Заказ.Attribute.Зона" id="b1ab4915-5e45-4ff0-941c-5729190abc1d"/>
+			<Metadata name="Document.Заказ.Attribute.Оценка" id="bfd7bda1-e7e7-4237-81bc-7ecb8b831774"/>
+			<Metadata name="Document.Заказ.Attribute.СпособОплаты" id="c5bc9466-5f20-4982-8b6e-8fc4b86f37d8"/>
+			<Metadata name="Document.Заказ.Attribute.АдресДоставки" id="ca51c87b-6070-496c-b07a-fe9423553eaf"/>
+			<Metadata name="Document.Заказ.Attribute.Оплачен" id="ddfad0f4-b545-46ca-bb1d-e4ffee4e00ed"/>
+		</Metadata>
+		<Metadata name="Document.Заказ.ObjectModule" id="5cb438e3-5650-4bd7-9cf3-cb7ed0a687bc.0" configVersion="1bb570656de676478396837ebb53fd1f00000000"/>
+		<Metadata name="Enum.СпособыОплаты" id="e88c4ca1-1bed-4e8f-a538-fd0ecaf8bcdb" configVersion="41c26743642b4141863b510608f645c600000000">
+			<Metadata name="Enum.СпособыОплаты.EnumValue.НаличныеПриОтпарвке" id="2a81d779-13c2-4868-b009-8af7c228c1b1"/>
+			<Metadata name="Enum.СпособыОплаты.EnumValue.Карта" id="60267602-cd1e-4391-b5a5-92f5871ce427"/>
+			<Metadata name="Enum.СпособыОплаты.EnumValue.НаличныеПриПолучении" id="d6390927-114e-41ce-aec6-6dbf0661706d"/>
+		</Metadata>
+		<Metadata name="Enum.СтатусыЗаказов" id="d5d33fe8-cc79-4277-be6a-00c3d04329a6" configVersion="5af420e6184f6143a0438247adcccc8200000000">
+			<Metadata name="Enum.СтатусыЗаказов.EnumValue.Назначен" id="0475b5f0-bea5-4574-bee8-9dee0673f46f"/>
+			<Metadata name="Enum.СтатусыЗаказов.EnumValue.Принят" id="2031959c-e37b-4fdc-8bf8-b5469694044e"/>
+			<Metadata name="Enum.СтатусыЗаказов.EnumValue.Отменен" id="61d21efb-cac5-4984-9664-2527463a4ae7"/>
+			<Metadata name="Enum.СтатусыЗаказов.EnumValue.ВРаботе" id="71b5f9c6-66cf-44f7-88ff-4be7f550c7c9"/>
+			<Metadata name="Enum.СтатусыЗаказов.EnumValue.Завершен" id="ac2466ab-a73d-4cbb-ba9a-28fabd108df8"/>
+			<Metadata name="Enum.СтатусыЗаказов.EnumValue.Формируется" id="ffd17eba-6398-48cf-a50e-30b8bd6766af"/>
+		</Metadata>
+		<Metadata name="InformationRegister.ДанныеЗаказов" id="2c8eab8b-714c-47c4-8e4d-aa31412fd705" configVersion="d1ee3e1a3bc5634bab373e2ff303d92700000000">
+			<Metadata name="InformationRegister.ДанныеЗаказов.Dimension.Курьер" id="0170561d-da42-445e-84f5-785981dde968"/>
+			<Metadata name="InformationRegister.ДанныеЗаказов.Dimension.Клиент" id="40e9af05-ff9c-4b4d-af84-4cfd53403185"/>
+			<Metadata name="InformationRegister.ДанныеЗаказов.Dimension.Статус" id="7877c636-9cc6-4f84-8a52-26cf1250af3a"/>
+			<Metadata name="InformationRegister.ДанныеЗаказов.Dimension.Зона" id="b0110e02-7b7a-4103-8ccf-c16701980ea8"/>
+			<Metadata name="InformationRegister.ДанныеЗаказов.Dimension.ДатаЗавершения" id="b56b262e-c8aa-4354-915a-1d9cee12fff5"/>
+			<Metadata name="InformationRegister.ДанныеЗаказов.Dimension.ДатаНазначения" id="c4b0ac22-a9be-490a-9bf9-a5b046e57ad3"/>
+			<Metadata name="InformationRegister.ДанныеЗаказов.Dimension.ДатаПриемаВРаботу" id="df887547-b093-4365-a665-8321d9555d49"/>
+		</Metadata>
+		<Metadata name="InformationRegister.КомандыПользователей" id="f2b6a560-9af7-40ee-8043-5265ee1e2c84" configVersion="d21dd584e57ccb42b76c53567a7cd3d300000000">
+			<Metadata name="InformationRegister.КомандыПользователей.Resource.ТекстСообщения" id="6cfc7357-f004-4e47-a474-3f522a54a966"/>
+			<Metadata name="InformationRegister.КомандыПользователей.Resource.client_id" id="b28fd7a9-3faf-4b57-beae-5999bf565a94"/>
+			<Metadata name="InformationRegister.КомандыПользователей.Resource.Команда" id="c6cc3a88-0e11-4ac5-b69f-2d17df086898"/>
+			<Metadata name="InformationRegister.КомандыПользователей.Resource.Выполнено" id="cb11749c-df37-46c4-99be-fba144829d29"/>
+			<Metadata name="InformationRegister.КомандыПользователей.Dimension.chat_id" id="cc6cebce-4428-4a1b-8819-93d13015f3ff"/>
+			<Metadata name="InformationRegister.КомандыПользователей.Resource.next_id" id="ee6b5858-4137-4976-b3a8-1c4d45762afb"/>
+			<Metadata name="InformationRegister.КомандыПользователей.Resource.date" id="f371321c-5184-4dea-8298-f24676f39910"/>
+		</Metadata>
+		<Metadata name="InformationRegister.ЯзыкПользователя" id="f01deff6-c2d6-46a4-8c90-982b44cd689d" configVersion="dad91acc4675d64589f04e5115fa29c600000000">
+			<Metadata name="InformationRegister.ЯзыкПользователя.Resource.Язык" id="67f03aff-81b0-40a5-93d8-39cb908ef3ba"/>
+			<Metadata name="InformationRegister.ЯзыкПользователя.Dimension.client_id" id="c683fd3b-bb2c-4abc-9a4c-8bae426b22e4"/>
+		</Metadata>
+		<Metadata name="Language.Русский" id="203580f3-7a91-4ef7-a1b6-3aea0f150183" configVersion="40490599b478f749873872620da5fdbb00000000"/>
+		<Metadata name="Report.АналитикаЗаказов" id="b1b8bc31-3515-48c9-9858-a4ba9d026da2" configVersion="c31278f28a29064b9c68c359b7f6ae5e00000000"/>
+		<Metadata name="Report.АналитикаЗаказов.Template.ОсновнаяСхемаКомпоновкиДанных" id="179eb04e-d3c3-45db-b739-778ef876e169" configVersion="a7f090119e742346917fae620c3645a900000000"/>
+		<Metadata name="Report.АналитикаЗаказов.Template.ОсновнаяСхемаКомпоновкиДанных.Template" id="179eb04e-d3c3-45db-b739-778ef876e169.0" configVersion="5814cb5d9759314c9a972d106889698c00000000"/>
+		<Metadata name="Subsystem.ТелеграмБот" id="3142e4f0-321e-409e-925a-df12457b0211" configVersion="b14970e534d2b640bbcec8c63fbac38700000000"/>
+	</ConfigVersions>
+</ConfigDumpInfo>
